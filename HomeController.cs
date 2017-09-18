@@ -42,5 +42,8 @@ namespace WebApplication2.Controllers
 	{
 			//donothing
 	}
+	public void SalilFun1(printdto p)
+	{
+	}
     }
 }
