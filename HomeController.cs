@@ -42,5 +42,9 @@ namespace WebApplication2.Controllers
 	{
 			//donothing
 	}
+	
+	public bool Pradnya2Fun()
+	{
+	}
     }
 }
