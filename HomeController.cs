@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -38,9 +38,9 @@ namespace WebApplication2.Controllers
             
         }
 		
-		public void SalilFunction(int a, bool b)
-		{
-			//dosomething
-		}
+	public void PradnyaFunction(object o)
+	{
+			//donothing
+	}
     }
 }
